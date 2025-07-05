@@ -55,7 +55,7 @@
 <summary>📘 1º Curso</summary>
 
 #### 📐 Análisis Matemático  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python)
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – Resolución de ejercicios introductorios en Python.
 
 #### 🌐 Fundamentos de Tecnología de Computadores  
 🔗 [Enlace al repositorio](#)

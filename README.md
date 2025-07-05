@@ -55,34 +55,35 @@
 <summary>📘 1º Curso</summary>
 
 #### 📐 <ins>Análisis Matemático</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em><span style="color:gray"><em>Fundamentos del cálculo y funciones elementales aplicados a la ingeniería informática.</em></span>
+</em></span>
 
 #### 🌐 <ins>Fundamentos de Tecnología de Computadores</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Introducción al hardware del computador: electricidad básica, transistores y fundamentos físicos de la computación.</em></span>  
 
 #### 📐 <ins>Matemática Discreta</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Lógica, conjuntos, probabilidad discreta y grafos aplicados a la resolución de problemas de ingeniería.</em></span>
 
 #### 🌐 <ins>Principios de Diseño de Sistemas Digitales</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Diseño y desarrollo de sistemas digitales: electrónica básica, memoria, máquinas de estado y arquitectura funcional de procesadores.</em></span>
 
 #### 💻 <ins>Programación Básica</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Fundamentos de programación imperativa: control de flujo, estructuras de datos, subprogramas y recursividad.</em></span>
 
 #### 📐 <ins>Cálculo</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Estudio de funciones, derivadas e integrales aplicadas al análisis matemático en ingeniería.</em></span>
 
 #### 🌐 <ins>Estructura de Computadores</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Estudio del funcionamiento interno de un computador desde la unidad aritmético-lógica hasta niveles superiores de abstracción.</em></span>
 
 #### 💻 <ins>Metodología de la Programación</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Métodos matemáticos para diseñar y verificar programas correctos, promoviendo buenas prácticas de programación.</em></span>
 
 #### 💻 <ins>Programación Modular y Orientación a Objetos</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Diseño de programas estructurados y orientados a objetos como base para el desarrollo de software modular y escalable.</em></span>
 
 #### 📐 <ins>Álgebra</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Estudio de álgebra lineal: matrices, espacios vectoriales y diagonalización aplicados a problemas de ingeniería.</em></span>
 
 </details>
 

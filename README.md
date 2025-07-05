@@ -1,23 +1,23 @@
 <h1 align="center">¡Hola! 👋 Soy Maria Bogajo</h1>
-<h3 align="center">Graduada en Ingeniería Informática y entusiasta de la tecnología con impacto</h3>
+<h3 align="center">Graduada en Ingeniería Informática de Gestión y Sistemas de Información (UPV/EHU)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=💻+Apasionada+del+Desarrollo+Web+y+la+IA;📚+Siempre+aprendiendo+y+creando;🚀+Buscando+retos+y+oportunidades" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=💻+Desarrollo,+Datos+y+Gestión;📚+Siempre+aprendiendo+y+creando;🚀+En+búsqueda+de+retos+con+impacto" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌱 Sobre mí
 
-- 🎓 Graduada en Ingeniería Informática por la Universidad del País Vasco (UPV/EHU).
-- 💻 Me interesan el desarrollo web, la inteligencia artificial, la educación digital y la tecnología en el ámbito sanitario.
-- 🌍 Apasionada por crear soluciones que tengan impacto real en las personas.
-- 🧠 Aprendiendo actualmente sobre **IA Generativa**, **RAG** y herramientas de desarrollo modernas.
-- ✨ En busca de prácticas o proyectos donde crecer y aportar.
+- 🎓 Graduada en Ingeniería Informática de Gestión y Sistemas de Información por la Universidad del País Vasco (UPV/EHU), Campus de Bizkaia.
+- 💡 Me apasionan la tecnología aplicada a la salud, los sistemas de información, el desarrollo web y la inteligencia artificial.
+- 🧠 Actualmente aprendiendo sobre **IA Generativa** y tecnologías de **RAG (Retrieval-Augmented Generation)**.
+- 📊 Me interesa conectar la informática con la toma de decisiones, los datos y la experiencia de usuario.
+- ✨ Buscando prácticas, becas o proyectos en los que crecer como desarrolladora y aportar valor.
 
 ---
 
-### 🛠️ Tecnologías con las que he trabajado
+### 🛠️ Tecnologías y herramientas
 
 #### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,8 +26,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-#### Herramientas y plataformas
+#### Herramientas y entornos
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -38,13 +39,13 @@
 
 ---
 
-### 💡 Áreas que me interesan
+### 💡 Áreas de interés
 
-- 🤖 Inteligencia Artificial (IA Generativa, NLP, Machine Learning)
-- 🧪 Proyectos con impacto educativo o social
-- 🌐 Desarrollo Web Full Stack
-- ⚙️ Sistemas y DevOps
-- 🩺 Tecnología en el ámbito de la salud
+- 📊 Sistemas de información y toma de decisiones
+- 🤖 Inteligencia Artificial aplicada (Generativa, RAG, NLP)
+- 🌐 Desarrollo web full stack
+- 🧪 Innovación tecnológica con impacto social
+- 🩺 Aplicaciones en el ámbito sanitario y educativo
 
 ---
 
@@ -59,10 +60,10 @@
 
 ### 📫 ¿Hablamos?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario) *(sustituye esto con tu enlace real)*
-- 🌐 Portafolio: *[si tienes, ponlo aquí]*
-- 📧 maria.bogajo@example.com *(sustitúyelo con tu correo real si quieres hacerlo público)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario) *(sustitúyelo por el real)*
+- 🌐 Portafolio: *[si tienes uno, pon el enlace aquí]*
+- 📧 maria.bogajo@example.com *(solo si deseas mostrarlo)*
 
 ---
 
-> “La tecnología no solo debe ser inteligente, también debe ser útil, inclusiva y humana.” 🌱
+> “La informática de gestión no solo organiza datos: transforma procesos y mejora la vida de las personas.”

@@ -49,6 +49,26 @@
 
 ---
 
+### 🧪 Proyectos universitarios
+
+#### 📘 PB-ADA
+> Prácticas de la asignatura **Programación Básica en ADA**  
+Desarrollo de algoritmos fundamentales y estructuras básicas con el lenguaje ADA, aplicando principios de programación estructurada.
+
+🔹 Lenguaje: `ADA`  
+🔗 [Ver repositorio](https://github.com/MariaBogajo/PB-ADA) *(si existe)*
+
+---
+
+#### 🐍 PB-Python
+> Prácticas de la asignatura **Programación Básica en Python**  
+Resolución de ejercicios introductorios: bucles, estructuras condicionales, listas, funciones, y primeras aproximaciones a la recursividad y orientación a objetos.
+
+🔹 Lenguaje: `Python`  
+🔗 [Ver repositorio](https://github.com/MariaBogajo/PB-Python) *(si existe)*
+
+---
+
 ### 📊 Estadísticas de GitHub
 
 <p align="center">

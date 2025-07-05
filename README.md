@@ -54,133 +54,133 @@
 <details>
 <summary>📘 1º Curso</summary>
 
-#### <ins>📐 Análisis Matemático</ins>  
+#### 📐 <ins>Análisis Matemático</ins>  
 🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🌐 Fundamentos de Tecnología de Computadores  
-🔗 [Enlace al repositorio](#)
+#### 🌐 <ins>Fundamentos de Tecnología de Computadores</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>  
 
-#### 📐 Matemática Discreta  
-🔗 [Enlace al repositorio](#)
+#### 📐 <ins>Matemática Discreta</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🌐 Principios de Diseño de Sistemas Digitales  
-🔗 [Enlace al repositorio](#)
+#### 🌐 <ins>Principios de Diseño de Sistemas Digitales</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 💻 Programación Básica  
-🔗 [Enlace al repositorio](#)
+#### 💻 <ins>Programación Básica</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 📐 Cálculo  
-🔗 [Enlace al repositorio](#)
+#### 📐 <ins>Cálculo</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🌐 Estructura de Computadores  
-🔗 [Enlace al repositorio](#)
+#### 🌐 <ins>Estructura de Computadores</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 💻 Metodología de la Programación  
-🔗 [Enlace al repositorio](#)
+#### 💻 <ins>Metodología de la Programación</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 💻 Programación Modular y Orientación a Objetos  
-🔗 [Enlace al repositorio](#)
+#### 💻 <ins>Programación Modular y Orientación a Objetos</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 📐 Álgebra  
-🔗 [Enlace al repositorio](#)
+#### 📐 <ins>Álgebra</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
 </details>
 
 <details>
 <summary>📗 2º Curso</summary>
 
-#### 🌐 Arquitectura de Computadores  
-🔗 [Enlace al repositorio](#)
+#### 🌐 <ins>Arquitectura de Computadores</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 💼 Economía y Administración de Empresas  
-🔗 [Enlace al repositorio](#)
+#### 💼 <ins>Economía y Administración de Empresas</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 💻 Estructuras de Datos y Algoritmos  
-🔗 [Enlace al repositorio](#)
+#### 💻 <ins>Estructuras de Datos y Algoritmos</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🤖 Lenguajes, Computación y Sistemas Inteligentes  
-🔗 [Enlace al repositorio](#)
+#### 🤖 <ins>Lenguajes, Computación y Sistemas Inteligentes</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 📊 Métodos Estadísticos de la Ingeniería  
-🔗 [Enlace al repositorio](#)
+#### 📊 <ins>Métodos Estadísticos de la Ingeniería</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🗄️ Bases de Datos  
-🔗 [Enlace al repositorio](#)
+#### 🗄️ <ins>Bases de Datos</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🧱 Ingeniería del Software  
-🔗 [Enlace al repositorio](#)
+#### 🧱 <ins>Ingeniería del Software</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🌐 Introducción a las Redes de Computadores  
-🔗 [Enlace al repositorio](#)
+#### 🌐 <ins>Introducción a las Redes de Computadores</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🌐 Introducción a los Sistemas Operativos  
-🔗 [Enlace al repositorio](#)
+#### 🌐 <ins>Introducción a los Sistemas Operativos</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 📊 Investigación Operativa  
-🔗 [Enlace al repositorio](#)
+#### 📊 <ins>Investigación Operativa</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
 </details>
 
 <details>
 <summary>📙 3º Curso</summary>
 
-#### 🧱 Análisis y Diseño de Sistemas de Información  
-🔗 [Enlace al repositorio](#)
+#### 🧱 <ins>Análisis y Diseño de Sistemas de Información</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🗄️ Diseño de Bases de Datos  
-🔗 [Enlace al repositorio](#)
+#### 🗄️ <ins>Diseño de Bases de Datos</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 💼 Organización de la Producción  
-🔗 [Enlace al repositorio](#)
+#### 💼 <ins>Organización de la Producción</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🗂️ Sistemas de Gestión Integrada  
-🔗 [Enlace al repositorio](#)
+#### 🗂️ <ins>Sistemas de Gestión Integrada</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🔒 Sistemas de Gestión de Seguridad de Sistemas de Información  
-🔗 [Enlace al repositorio](#)
+#### 🔒 <ins>Sistemas de Gestión de Seguridad de Sistemas de Información</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🗄️ Administración de Bases de Datos  
-🔗 [Enlace al repositorio](#)
+#### 🗄️ <ins>Administración de Bases de Datos</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🗂️ Gestión de Proyectos  
-🔗 [Enlace al repositorio](#)
+#### 🗂️ <ins>Gestión de Proyectos</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 🌐 Sistemas Web  
-🔗 [Enlace al repositorio](#)
+#### 🌐 <ins>Sistemas Web</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 📊 Sistemas de Apoyo a la Decisión  
-🔗 [Enlace al repositorio](#)
+#### 📊 <ins>Sistemas de Apoyo a la Decisión</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 💼 Software de Gestión de Empresa  
-🔗 [Enlace al repositorio](#)
+#### 💼 <ins>Software de Gestión de Empresa</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
 </details>
 
 <details>
 <summary>📕 4º Curso</summary>
 
-#### 📡 Tecnología de Ingeniería Telemática  
-🔗 [Enlace al repositorio](#)
+#### 📡 <ins>Tecnología de Ingeniería Telemática</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 📡 Redes y Servicios Móviles  
-🔗 [Enlace al repositorio](#)
+#### 📡 <ins>Redes y Servicios Móviles</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 📡 Servicios Multimedia  
-🔗 [Enlace al repositorio](#)
+#### 📡 <ins>Servicios Multimedia</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 📡 Despliegue y Gestión de Redes y Servicios  
-🔗 [Enlace al repositorio](#)
+#### 📡 <ins>Despliegue y Gestión de Redes y Servicios</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
-#### 💻 Técnicas Avanzadas de Programación  
-🔗 [Enlace al repositorio](#)
+#### 💻 <ins>Técnicas Avanzadas de Programación</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
 </details>
 
 <details>
 <summary>📜 TFG</summary>
 
-#### 🩺🎓 Trabajo de Fin de Grado – SYMDIO  
-🔗 [Enlace al repositorio](https://github.com/MariaBogajo/Symdio)
+#### 🎓 <ins>Trabajo de Fin de Grado</ins>  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
 
 </details>
 

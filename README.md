@@ -60,9 +60,9 @@
 
 ### 📫 ¿Hablamos?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario) *(sustitúyelo por el real)*
+- 💼 [LinkedIn]https://www.linkedin.com/in/mariabogajo/
 - 🌐 Portafolio: *[si tienes uno, pon el enlace aquí]*
-- 📧 maria.bogajo@example.com *(solo si deseas mostrarlo)*
+- 📧 mariabogajo@gmail.com
 
 ---
 

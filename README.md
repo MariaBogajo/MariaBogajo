@@ -60,7 +60,7 @@
 
 ### 📫 ¿Hablamos?
 
-- 💼 [LinkedIn]https://www.linkedin.com/in/mariabogajo/
+- 💼 [LinkedIn] https://www.linkedin.com/in/mariabogajo/
 - 🌐 Portafolio: *[si tienes uno, pon el enlace aquí]*
 - 📧 mariabogajo@gmail.com
 

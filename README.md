@@ -54,45 +54,133 @@
 <details>
 <summary>📘 1º Curso</summary>
 
-#### 🔹 Programación Básica en ADA  
-🔗 [PB-ADA](https://github.com/MariaBogajo/PB-ADA) – Prácticas con algoritmos en lenguaje ADA.
+#### 📐 Análisis Matemático  
+🔗 [Enlace al repositorio](#)
 
-#### 🔹 Programación Básica en Python  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – Resolución de ejercicios introductorios en Python.
+#### 🌐 Fundamentos de Tecnología de Computadores  
+🔗 [Enlace al repositorio](#)
 
-<!-- Añade más asignaturas aquí -->
+#### 📐 Matemática Discreta  
+🔗 [Enlace al repositorio](#)
+
+#### 🌐 Principios de Diseño de Sistemas Digitales  
+🔗 [Enlace al repositorio](#)
+
+#### 💻 Programación Básica  
+🔗 [Enlace al repositorio](#)
+
+#### 📐 Cálculo  
+🔗 [Enlace al repositorio](#)
+
+#### 🌐 Estructura de Computadores  
+🔗 [Enlace al repositorio](#)
+
+#### 💻 Metodología de la Programación  
+🔗 [Enlace al repositorio](#)
+
+#### 💻 Programación Modular y Orientación a Objetos  
+🔗 [Enlace al repositorio](#)
+
+#### 📐 Álgebra  
+🔗 [Enlace al repositorio](#)
+
 </details>
 
 <details>
 <summary>📗 2º Curso</summary>
 
-#### 🔹 Bases de Datos  
-🔗 [BD-Proyecto](#) – Proyecto de modelado relacional y consultas SQL.
+#### 🌐 Arquitectura de Computadores  
+🔗 [Enlace al repositorio](#)
 
-#### 🔹 Ingeniería del Software  
-🔗 [IS-GestionAcademica](#) – Aplicación de escritorio con Java para gestionar alumnos.
+#### 💼 Economía y Administración de Empresas  
+🔗 [Enlace al repositorio](#)
 
-<!-- Añade más asignaturas aquí -->
+#### 💻 Estructuras de Datos y Algoritmos  
+🔗 [Enlace al repositorio](#)
+
+#### 🤖 Lenguajes, Computación y Sistemas Inteligentes  
+🔗 [Enlace al repositorio](#)
+
+#### 📊 Métodos Estadísticos de la Ingeniería  
+🔗 [Enlace al repositorio](#)
+
+#### 🗄️ Bases de Datos  
+🔗 [Enlace al repositorio](#)
+
+#### 🧱 Ingeniería del Software  
+🔗 [Enlace al repositorio](#)
+
+#### 🌐 Introducción a las Redes de Computadores  
+🔗 [Enlace al repositorio](#)
+
+#### 🌐 Introducción a los Sistemas Operativos  
+🔗 [Enlace al repositorio](#)
+
+#### 📊 Investigación Operativa  
+🔗 [Enlace al repositorio](#)
+
 </details>
 
 <details>
 <summary>📙 3º Curso</summary>
 
-<!-- Aquí puedes seguir añadiendo más -->
+#### 🧱 Análisis y Diseño de Sistemas de Información  
+🔗 [Enlace al repositorio](#)
+
+#### 🗄️ Diseño de Bases de Datos  
+🔗 [Enlace al repositorio](#)
+
+#### 💼 Organización de la Producción  
+🔗 [Enlace al repositorio](#)
+
+#### 🗂️ Sistemas de Gestión Integrada  
+🔗 [Enlace al repositorio](#)
+
+#### 🔒 Sistemas de Gestión de Seguridad de Sistemas de Información  
+🔗 [Enlace al repositorio](#)
+
+#### 🗄️ Administración de Bases de Datos  
+🔗 [Enlace al repositorio](#)
+
+#### 🗂️ Gestión de Proyectos  
+🔗 [Enlace al repositorio](#)
+
+#### 🌐 Sistemas Web  
+🔗 [Enlace al repositorio](#)
+
+#### 📊 Sistemas de Apoyo a la Decisión  
+🔗 [Enlace al repositorio](#)
+
+#### 💼 Software de Gestión de Empresa  
+🔗 [Enlace al repositorio](#)
 
 </details>
 
 <details>
 <summary>📕 4º Curso</summary>
 
-#### 🔹 Asig
+#### 📡 Tecnología de Ingeniería Telemática  
+🔗 [Enlace al repositorio](#)
+
+#### 📡 Redes y Servicios Móviles  
+🔗 [Enlace al repositorio](#)
+
+#### 📡 Servicios Multimedia  
+🔗 [Enlace al repositorio](#)
+
+#### 📡 Despliegue y Gestión de Redes y Servicios  
+🔗 [Enlace al repositorio](#)
+
+#### 💻 Técnicas Avanzadas de Programación  
+🔗 [Enlace al repositorio](#)
 
 </details>
 
 <details>
 <summary>📜 TFG</summary>
 
-#### 🔹 Asig
+#### 🩺🎓 Trabajo de Fin de Grado – SYMDIO  
+🔗 [Enlace al repositorio](https://github.com/MariaBogajo/Symdio)
 
 </details>
 

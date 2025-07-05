@@ -55,14 +55,14 @@
 <summary>📘 1º Curso</summary>
 
 #### 📐 <ins>Análisis Matemático</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em><span style="color:gray"><em>Fundamentos del cálculo y funciones elementales aplicados a la ingeniería informática.</em></span>
+[PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em><span style="color:gray"><em>Fundamentos del cálculo y funciones elementales aplicados a la ingeniería informática.</em></span>
 </em></span>
 
 #### 🌐 <ins>Fundamentos de Tecnología de Computadores</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Introducción al hardware del computador: electricidad básica, transistores y fundamentos físicos de la computación.</em></span>  
+[PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Introducción al hardware del computador: electricidad básica, transistores y fundamentos físicos de la computación.</em></span>  
 
 #### 📐 <ins>Matemática Discreta</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Lógica, conjuntos, probabilidad discreta y grafos aplicados a la resolución de problemas de ingeniería.</em></span>
+[PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Lógica, conjuntos, probabilidad discreta y grafos aplicados a la resolución de problemas de ingeniería.</em></span>
 
 #### 🌐 <ins>Principios de Diseño de Sistemas Digitales</ins>  
 🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Diseño y desarrollo de sistemas digitales: electrónica básica, memoria, máquinas de estado y arquitectura funcional de procesadores.</em></span>

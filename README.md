@@ -49,23 +49,52 @@
 
 ---
 
-### 🧪 Proyectos universitarios
+### 🎓 University
 
-#### 📘 PB-ADA
-> Prácticas de la asignatura **Programación Básica en ADA**  
-Desarrollo de algoritmos fundamentales y estructuras básicas con el lenguaje ADA, aplicando principios de programación estructurada.
+<details>
+<summary>📘 1º Curso</summary>
 
-🔹 Lenguaje: `ADA`  
-🔗 [Ver repositorio](https://github.com/MariaBogajo/PB-ADA) *(si existe)*
+#### 🔹 Programación Básica en ADA  
+🔗 [PB-ADA](https://github.com/MariaBogajo/PB-ADA) – Prácticas con algoritmos en lenguaje ADA.
+
+#### 🔹 Programación Básica en Python  
+🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – Resolución de ejercicios introductorios en Python.
+
+<!-- Añade más asignaturas aquí -->
+</details>
 
 ---
 
-#### 🐍 PB-Python
-> Prácticas de la asignatura **Programación Básica en Python**  
-Resolución de ejercicios introductorios: bucles, estructuras condicionales, listas, funciones, y primeras aproximaciones a la recursividad y orientación a objetos.
+<details>
+<summary>📗 2º Curso</summary>
 
-🔹 Lenguaje: `Python`  
-🔗 [Ver repositorio](https://github.com/MariaBogajo/PB-Python) *(si existe)*
+#### 🔹 Bases de Datos  
+🔗 [BD-Proyecto](#) – Proyecto de modelado relacional y consultas SQL.
+
+#### 🔹 Ingeniería del Software  
+🔗 [IS-GestionAcademica](#) – Aplicación de escritorio con Java para gestionar alumnos.
+
+<!-- Añade más asignaturas aquí -->
+</details>
+
+---
+
+<details>
+<summary>📙 3º Curso</summary>
+
+<!-- Aquí puedes seguir añadiendo más -->
+
+</details>
+
+---
+
+<details>
+<summary>📕 4º Curso</summary>
+
+#### 🔹 TFG – Symdio  
+🔗 [SYMDIO](#) – Aplicación de autodiagnóstico médico con IA generativa y RAG.
+
+</details>
 
 ---
 

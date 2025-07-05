@@ -63,8 +63,6 @@
 <!-- Añade más asignaturas aquí -->
 </details>
 
----
-
 <details>
 <summary>📗 2º Curso</summary>
 
@@ -77,8 +75,6 @@
 <!-- Añade más asignaturas aquí -->
 </details>
 
----
-
 <details>
 <summary>📙 3º Curso</summary>
 
@@ -86,13 +82,17 @@
 
 </details>
 
----
-
 <details>
 <summary>📕 4º Curso</summary>
 
-#### 🔹 TFG – Symdio  
-🔗 [SYMDIO](#) – Aplicación de autodiagnóstico médico con IA generativa y RAG.
+#### 🔹 Asig
+
+</details>
+
+<details>
+<summary>📜 TFG</summary>
+
+#### 🔹 Asig
 
 </details>
 

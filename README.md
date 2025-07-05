@@ -61,7 +61,7 @@
 ### 📫 ¿Hablamos?
 
 - 💼 [LinkedIn] https://www.linkedin.com/in/mariabogajo/
-- 🌐 Portafolio: *[si tienes uno, pon el enlace aquí]*
+- 🌐 Portafolio: (en construcción)
 - 📧 mariabogajo@gmail.com
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Maria Bogajo</h1>
+<h1 align="center">¡Hola! Soy Maria Bogajo</h1>
 <h3 align="center">Graduada en Ingeniería Informática de Gestión y Sistemas de Información (UPV/EHU)</h3>
 
 <p align="center">

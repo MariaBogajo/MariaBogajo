@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Maria Bogajo</h1>
-<h3 align="center">Graduada en Ingeniería Informática de Gestión y Sistemas de Información (UPV/EHU)</h3>
+<h3 align="center">Estudiante en Ingeniería Informática de Gestión y Sistemas de Información (UPV/EHU)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" />

@@ -202,6 +202,14 @@
 
 ---
 
+### 🚀 Proyectos destacados
+
+- **Symdio** – Sistema web de autodiagnóstico con RAG.  
+  _IA generativa + recuperación aumentada (TFG)_  
+  👉 [Ver repositorio](https://github.com/MariaBogajo/TFG)
+
+---
+
 ### 📊 Estadísticas de GitHub
 
 <p align="center">

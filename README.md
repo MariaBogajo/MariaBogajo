@@ -5,6 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=💻+Desarrollo,+Datos+y+Gestión;📚+Siempre+aprendiendo+y+creando;🚀+En+búsqueda+de+retos+con+impacto" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Portfolio-En%20construcci%C3%B3n-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Contact-Available-brightgreen?style=flat-square" />
+</p>
+
+
 ---
 
 ### 🌱 Sobre mí

@@ -65,25 +65,25 @@
 [Discreta](https://github.com/MariaBogajo/Discreta) – <span style="color:gray"><em>Lógica, conjuntos, probabilidad discreta y grafos aplicados a la resolución de problemas de ingeniería.</em></span>
 
 #### 🌐 <ins>Principios de Diseño de Sistemas Digitales</ins>  
-🔗 [PDSD](https://github.com/MariaBogajo/PDSD) – <span style="color:gray"><em>Diseño y desarrollo de sistemas digitales: electrónica básica, memoria, máquinas de estado y arquitectura funcional de procesadores.</em></span>
+[PDSD](https://github.com/MariaBogajo/PDSD) – <span style="color:gray"><em>Diseño y desarrollo de sistemas digitales: electrónica básica, memoria, máquinas de estado y arquitectura funcional de procesadores.</em></span>
 
 #### 💻 <ins>Programación Básica</ins>  
-🔗 [PB](https://github.com/MariaBogajo/PB) – <span style="color:gray"><em>Fundamentos de programación imperativa: control de flujo, estructuras de datos, subprogramas y recursividad.</em></span>
+[PB](https://github.com/MariaBogajo/PB) – <span style="color:gray"><em>Fundamentos de programación imperativa: control de flujo, estructuras de datos, subprogramas y recursividad.</em></span>
 
 #### 📐 <ins>Cálculo</ins>  
-🔗 [Cálculo](https://github.com/MariaBogajo/Calculo) – <span style="color:gray"><em>Estudio de funciones, derivadas e integrales aplicadas al análisis matemático en ingeniería.</em></span>
+[Cálculo](https://github.com/MariaBogajo/Calculo) – <span style="color:gray"><em>Estudio de funciones, derivadas e integrales aplicadas al análisis matemático en ingeniería.</em></span>
 
 #### 🌐 <ins>Estructura de Computadores</ins>  
-🔗 [Estructura](https://github.com/MariaBogajo/Estructura) – <span style="color:gray"><em>Estudio del funcionamiento interno de un computador desde la unidad aritmético-lógica hasta niveles superiores de abstracción.</em></span>
+[Estructura](https://github.com/MariaBogajo/Estructura) – <span style="color:gray"><em>Estudio del funcionamiento interno de un computador desde la unidad aritmético-lógica hasta niveles superiores de abstracción.</em></span>
 
 #### 💻 <ins>Metodología de la Programación</ins>  
-🔗 [MP](https://github.com/MariaBogajo/MP) – <span style="color:gray"><em>Métodos matemáticos para diseñar y verificar programas correctos, promoviendo buenas prácticas de programación.</em></span>
+[MP](https://github.com/MariaBogajo/MP) – <span style="color:gray"><em>Métodos matemáticos para diseñar y verificar programas correctos, promoviendo buenas prácticas de programación.</em></span>
 
 #### 💻 <ins>Programación Modular y Orientación a Objetos</ins>  
-🔗 [PMOO](https://github.com/MariaBogajo/PMOO) – <span style="color:gray"><em>Diseño de programas estructurados y orientados a objetos como base para el desarrollo de software modular y escalable.</em></span>
+[PMOO](https://github.com/MariaBogajo/PMOO) – <span style="color:gray"><em>Diseño de programas estructurados y orientados a objetos como base para el desarrollo de software modular y escalable.</em></span>
 
 #### 📐 <ins>Álgebra</ins>  
-🔗 [Álgebra](https://github.com/MariaBogajo/Algebra) – <span style="color:gray"><em>Estudio de álgebra lineal: matrices, espacios vectoriales y diagonalización aplicados a problemas de ingeniería.</em></span>
+[Álgebra](https://github.com/MariaBogajo/Algebra) – <span style="color:gray"><em>Estudio de álgebra lineal: matrices, espacios vectoriales y diagonalización aplicados a problemas de ingeniería.</em></span>
 
 </details>
 

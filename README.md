@@ -91,34 +91,34 @@
 <summary>📗 2º Curso</summary>
 
 #### 🌐 <ins>Arquitectura de Computadores</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[Arquitectura](https://github.com/MariaBogajo/Arquitectura) – <span style="color:gray"><em>Funcionamiento interno del computador: memorias, periféricos y desarrollo de software a bajo nivel.</em></span>
 
 #### 💼 <ins>Economía y Administración de Empresas</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[Economia](https://github.com/MariaBogajo/Economia) – <span style="color:gray"><em>Fundamentos de economía y gestión empresarial orientados a la toma de decisiones y la creación de valor en organizaciones.</em></span>
 
 #### 💻 <ins>Estructuras de Datos y Algoritmos</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[EDA](https://github.com/MariaBogajo/EDA) – <span style="color:gray"><em>Diseño y análisis de algoritmos con estructuras de datos avanzadas: listas, colas, pilas, árboles, hash y grafos.</em></span>
 
 #### 🤖 <ins>Lenguajes, Computación y Sistemas Inteligentes</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[LCSI](https://github.com/MariaBogajo/LCSI) – <span style="color:gray"><em>Estudio de los límites de la computación: lenguajes formales, máquinas de Turing, lambda-cálculo y complejidad computacional.</em></span>
 
 #### 📊 <ins>Métodos Estadísticos de la Ingeniería</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[Estadística](https://github.com/MariaBogajo/Estadistica) – <span style="color:gray"><em>Modelos de probabilidad y estadística aplicados al análisis de algoritmos, simulación y sistemas inteligentes.</em></span>
 
 #### 🗄️ <ins>Bases de Datos</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[BD](https://github.com/MariaBogajo/BD) – <span style="color:gray"><em>Fundamentos del modelo relacional, lenguaje SQL y transacciones en aplicaciones con acceso a bases de datos.</em></span>
 
 #### 🧱 <ins>Ingeniería del Software</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[IS](https://github.com/MariaBogajo/IS) – <span style="color:gray"><em>Diseño e implementación de software de calidad aplicando metodologías activas, arquitecturas por capas y herramientas de desarrollo profesional.</em></span>
 
 #### 🌐 <ins>Introducción a las Redes de Computadores</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[Redes](https://github.com/MariaBogajo/Redes) – <span style="color:gray"><em>Fundamentos de redes informáticas: modelo OSI, protocolos TCP/IP y funcionamiento básico de Internet.</em></span>
 
 #### 🌐 <ins>Introducción a los Sistemas Operativos</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[ISO](https://github.com/MariaBogajo/ISO) – <span style="color:gray"><em>Conceptos fundamentales de los sistemas operativos: gestión de recursos, dispositivos, usuarios y servicios básicos.</em></span>
 
 #### 📊 <ins>Investigación Operativa</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[IO](https://github.com/MariaBogajo/IO) – <span style="color:gray"><em>Modelos y técnicas cuantitativas para la toma de decisiones: programación lineal, entera, teoría de colas y simulación.</em></span>
 
 </details>
 

@@ -161,19 +161,19 @@
 <summary>📕 4º Curso</summary>
 
 #### 📡 <ins>Tecnología de Ingeniería Telemática</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[TIT](https://github.com/MariaBogajo/TIT) – <span style="color:gray"><em>Introducción a la ingeniería telemática y sus aplicaciones, con énfasis en su impacto técnico y profesional.</em></span>
 
 #### 📡 <ins>Redes y Servicios Móviles</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[Móviles](https://github.com/MariaBogajo/Moviles) – <span style="color:gray"><em>Estudio de tecnologías, arquitecturas y protocolos para la provisión de servicios móviles en entornos inalámbricos.</em></span>
 
 #### 📡 <ins>Servicios Multimedia</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[Multimedia](https://github.com/MariaBogajo/Multimedia) – <span style="color:gray"><em>Fundamentos y aplicaciones de servicios multimedia sobre redes IP: audio, vídeo, telefonía y transmisión en entornos telemáticos.</em></span>
 
 #### 📡 <ins>Despliegue y Gestión de Redes y Servicios</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[Despliegue](https://github.com/MariaBogajo/Despliegue) – <span style="color:gray"><em>Diseño, configuración y gestión de arquitecturas de red extremo a extremo para garantizar servicios de telecomunicaciones eficientes.</em></span>
 
 #### 💻 <ins>Técnicas Avanzadas de Programación</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[TAP](https://github.com/MariaBogajo/TAP) – <span style="color:gray"><em>Desarrollo de software aplicando técnicas avanzadas a lo largo del ciclo de vida de aplicaciones complejas.</em></span>
 
 </details>
 
@@ -181,7 +181,7 @@
 <summary>📜 TFG</summary>
 
 #### 🎓 <ins>Trabajo de Fin de Grado</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[TFG](https://github.com/MariaBogajo/TFG) – <span style="color:gray"><em>Aplicación completa de los conocimientos adquiridos a lo largo del grado mediante el desarrollo de un proyecto informático individual con orientación profesional o investigadora.</em></span>
 
 </details>
 

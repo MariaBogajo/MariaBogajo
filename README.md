@@ -126,34 +126,34 @@
 <summary>📙 3º Curso</summary>
 
 #### 🧱 <ins>Análisis y Diseño de Sistemas de Información</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[ADSI](https://github.com/MariaBogajo/ADSI) – <span style="color:gray"><em>Desarrollo completo de sistemas de información aplicando metodologías de análisis, diseño, pruebas y validación.</em></span>
 
 #### 🗄️ <ins>Diseño de Bases de Datos</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[DBD](https://github.com/MariaBogajo/DBD) – <span style="color:gray"><em>Profundización en el modelado y diseño de bases de datos como soporte para el desarrollo de sistemas de información.</em></span>
 
 #### 💼 <ins>Organización de la Producción</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[OP](https://github.com/MariaBogajo/OP) – <span style="color:gray"><em>Diseño, mejora y planificación de sistemas productivos y logísticos en entornos empresariales reales.</em></span>
 
 #### 🗂️ <ins>Sistemas de Gestión Integrada</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[SGI](https://github.com/MariaBogajo/SGI) – <span style="color:gray"><em>Implantación de sistemas de gestión de calidad, medio ambiente y prevención de riesgos bajo normativas ISO.</em></span>
 
 #### 🔒 <ins>Sistemas de Gestión de Seguridad de Sistemas de Información</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[SGSSI](https://github.com/MariaBogajo/SGSSI) – <span style="color:gray"><em>Identificación, análisis y control de riesgos que afectan a la seguridad de la información y los sistemas que la gestionan.</em></span>
 
 #### 🗄️ <ins>Administración de Bases de Datos</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[ABD](https://github.com/MariaBogajo/ABD) – <span style="color:gray"><em>Gestión y administración técnica de bases de datos relacionales en entornos operativos, aplicando SQL y herramientas de sistema.</em></span>
 
 #### 🗂️ <ins>Gestión de Proyectos</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[GP](https://github.com/MariaBogajo/GP) – <span style="color:gray"><em>Planificación, organización y dirección de proyectos tecnológicos, aplicando herramientas de gestión, liderazgo y control de calidad.</em></span>
 
 #### 🌐 <ins>Sistemas Web</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[SW](https://github.com/MariaBogajo/SW) – <span style="color:gray"><em>Desarrollo e integración de sistemas web con servicios distribuidos, autenticación segura y despliegue de aplicaciones.</em></span>
 
 #### 📊 <ins>Sistemas de Apoyo a la Decisión</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[SAD](https://github.com/MariaBogajo/SAD) – <span style="color:gray"><em>Fundamentos y desarrollo de sistemas web interoperables: servicios distribuidos, autenticación y despliegue de aplicaciones.</em></span>
 
 #### 💼 <ins>Software de Gestión de Empresa</ins>  
-🔗 [PB-Python](https://github.com/MariaBogajo/PB-Python) – <span style="color:gray"><em>Resolución de ejercicios introductorios en Python.</em></span>
+[SGE](https://github.com/MariaBogajo/SGE) – <span style="color:gray"><em>Diseño y desarrollo de soluciones software alineadas con objetivos empresariales y necesidades organizativas reales.</em></span>
 
 </details>
 

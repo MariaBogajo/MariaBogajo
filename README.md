@@ -94,7 +94,7 @@
 [Arquitectura](https://github.com/MariaBogajo/Arquitectura) – <span style="color:gray"><em>Funcionamiento interno del computador: memorias, periféricos y desarrollo de software a bajo nivel.</em></span>
 
 #### 💼 <ins>Economía y Administración de Empresas</ins>  
-[Economia](https://github.com/MariaBogajo/Economia) – <span style="color:gray"><em>Fundamentos de economía y gestión empresarial orientados a la toma de decisiones y la creación de valor en organizaciones.</em></span>
+[Economía](https://github.com/MariaBogajo/Economia) – <span style="color:gray"><em>Fundamentos de economía y gestión empresarial orientados a la toma de decisiones y la creación de valor en organizaciones.</em></span>
 
 #### 💻 <ins>Estructuras de Datos y Algoritmos</ins>  
 [EDA](https://github.com/MariaBogajo/EDA) – <span style="color:gray"><em>Diseño y análisis de algoritmos con estructuras de datos avanzadas: listas, colas, pilas, árboles, hash y grafos.</em></span>

@@ -15,7 +15,7 @@
 
 ### 🌱 Sobre mí
 
-- 🎓 Graduada en Ingeniería Informática de Gestión y Sistemas de Información por la Universidad del País Vasco (UPV/EHU), Campus de Bizkaia.
+- 🎓 Estudiante en Ingeniería Informática de Gestión y Sistemas de Información por la Universidad del País Vasco (UPV/EHU), Campus de Bizkaia.
 - 💡 Me apasionan la tecnología, los sistemas de información, la inteligencia artificial y el desarrollo web.
 - 🧠 Actualmente aprendiendo sobre **IA Generativa** y tecnologías de **RAG (Retrieval-Augmented Generation)**.
 - 📊 Me interesa conectar la informática con la toma de decisiones, el análisis de datos y la experiencia de usuario.

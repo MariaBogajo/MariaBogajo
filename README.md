@@ -10,10 +10,19 @@
 ### 🌱 Sobre mí
 
 - 🎓 Graduada en Ingeniería Informática de Gestión y Sistemas de Información por la Universidad del País Vasco (UPV/EHU), Campus de Bizkaia.
-- 💡 Me apasionan la tecnología aplicada a la salud, los sistemas de información, el desarrollo web y la inteligencia artificial.
+- 💡 Me apasionan la tecnología, los sistemas de información, la inteligencia artificial y el desarrollo web.
 - 🧠 Actualmente aprendiendo sobre **IA Generativa** y tecnologías de **RAG (Retrieval-Augmented Generation)**.
-- 📊 Me interesa conectar la informática con la toma de decisiones, los datos y la experiencia de usuario.
+- 📊 Me interesa conectar la informática con la toma de decisiones, el análisis de datos y la experiencia de usuario.
 - ✨ Buscando prácticas, becas o proyectos en los que crecer como desarrolladora y aportar valor.
+
+---
+
+### 🤝 Competencias personales
+
+- Trabajo en equipo y colaboración
+- Comunicación efectiva
+- Pensamiento analítico
+- Curiosidad y aprendizaje autónomo
 
 ---
 
@@ -41,11 +50,11 @@
 
 ### 💡 Áreas de interés
 
-- 📊 Sistemas de información y toma de decisiones
-- 🤖 Inteligencia Artificial aplicada (Generativa, RAG, NLP)
-- 🌐 Desarrollo web full stack
-- 🧪 Innovación tecnológica con impacto social
-- 🩺 Aplicaciones en el ámbito sanitario y educativo
+- 📊 Sistemas de información y toma de decisiones  
+- 🤖 Inteligencia Artificial aplicada (Generativa, RAG, NLP)  
+- 🌐 Desarrollo web full stack  
+- 🧪 Innovación tecnológica con impacto  
+- 📈 Procesamiento de datos y automatización
 
 ---
 
